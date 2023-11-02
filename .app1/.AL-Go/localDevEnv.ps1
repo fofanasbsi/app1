@@ -4,7 +4,7 @@
 # Recommended approach is to use as is or add a script (freddyk-devenv.ps1), which calls this script with the user specific parameters
 #
 Param(
-    [string] $containerName = "",
+    [string] $containerName = "cb4a220efdc92f6a6348af8e4e1095e1072f9a5435b3628edfed77e5cb35773c",
     [string] $auth = "",
     [pscredential] $credential = $null,
     [string] $licenseFileUrl = "",

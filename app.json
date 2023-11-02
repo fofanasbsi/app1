@@ -1,0 +1,35 @@
+{
+    "id": "b77c6f1e-a715-454c-a482-c9bef52ba0e4",
+    "name": "app1",
+    "publisher": "FOFANA",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "22.0.0.0",
+    "idRanges": [
+      {
+        "from": 54999,
+        "to": 59000
+      }
+    ],
+    "features": [
+      "NoImplicitWith"
+    ],
+    "resourceExposurePolicy": {
+      "allowDebugging": true,
+      "allowDownloadingSource": true,
+      "includeSourceInSymbolFile": true
+    }
+    ,
+    "runtime": "12.0"
+    
+  }
+  
